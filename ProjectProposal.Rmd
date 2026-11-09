@@ -12,8 +12,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [**Link to GitHub Repo**]
 
-[**Link to Dataset and Data Dictionary**] https://data.cityofnewyork.us/Environment/DSNY-Litter-Basket-Inventory/8znf-7b2c/data_preview
-
 #### Motivation
 
 
@@ -21,6 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 #### Anticipated Data Sources
+[**Link to Dataset and Data Dictionary**] https://data.cityofnewyork.us/Environment/DSNY-Litter-Basket-Inventory/8znf-7b2c/data_preview
 
 
 #### Planned Analyses, Visualizations, Coding Challenges
