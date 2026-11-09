@@ -1,5 +1,6 @@
 ---
 title: "Project Proposal"
+author: "Srisai Saavarni Chilukuri, Isabella Nguyen, Francis Alford, Jia Varkey, Janvi Garg"
 output: github_document
 date: "2026-11-09"
 ---
@@ -8,3 +9,20 @@ date: "2026-11-09"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
+[**Link to GitHub Repo**]
+
+
+#### Motivation
+
+
+#### Intended Final Products
+
+
+#### Anticipated Data Sources
+
+
+#### Planned Analyses, Visualizations, Coding Challenges
+
+
+#### Planned Timeline
