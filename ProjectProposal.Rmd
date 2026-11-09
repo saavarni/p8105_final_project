@@ -21,6 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Anticipated Data Sources
 [**Link to Dataset and Data Dictionary**] https://data.cityofnewyork.us/Environment/DSNY-Litter-Basket-Inventory/8znf-7b2c/data_preview
 https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/wvxf-dwi5/about_data
+https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2020-to-Present/erm2-nwe9/about_data
 
 
 #### Planned Analyses, Visualizations, Coding Challenges
