@@ -33,12 +33,13 @@ https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2020-to-
 
 
 #### Planned Timeline
-November 13 by 1:00 pm	Form a team and submit a proposal	- Written proposal document
-November 16-20	Project review meeting	Zoom meeting – no “deliverable”
-December 12 by 11:59 pm	Report - Written report giving detailed project description
-December 12 by 11:59 pm	Webpage and screencast - Webpage overview of project, with short explanatory video (published online)
-December 12 by 11:59 pm	Peer assessment	Brief assessment of your teammates contributions (as a short document)
-December 17	“In class” discussion of projects
+November 16-20	Project review meeting Zoom meeting
+November 23-30  Create website, complete all components of the analysis  
+December 01-05  Create visualizations, review and edit analysis
+December 06-10  Draft report, finalize website
+December 10-12  Record presentation screen cast
+December 12     Complete final submissions 
+
 
 
 
