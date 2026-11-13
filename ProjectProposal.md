@@ -16,6 +16,15 @@ Janvi Garg
 
 #### Intended Final Products
 
+1.  A project website hosted on GitHub Pages that presents our
+    motivation, data, methods, and findings.
+2.  Interactive maps showing the distribution of rat sightings across
+    New York City by borough and zip code.
+3.  A final report describing our data cleaning, exploratory analysis,
+    statistical modeling, and conclusions.
+4.  A screencast presentation summarizing the project and walking
+    through the website.
+
 #### Anticipated Data Sources
 
 \[**Link to Dataset and Data Dictionary**\]
@@ -26,10 +35,49 @@ Janvi Garg
 
 #### Planned Analyses, Visualizations, Coding Challenges
 
+**Analyses**
+
+1.  Clean and merge the rodent inspection, housing maintenance code
+    violation, litter basket, and 311 service request datasets by
+    borough, zip code, and date.
+2.  Summarize the number of rat sightings and failed rodent inspections
+    by borough and zip code.
+3.  Fit regression models (Poisson or negative binomial) to assess the
+    association between the frequency of housing violations and the
+    number of rat sightings at the zip code level, adjusting for litter
+    basket density.
+4.  Compare trends over time in total 311 requests and rodent related
+    311 requests from 2020 to present.
+
+**Visualizations**
+
+1.  Interactive maps (leaflet or plotly) of rat sightings and housing
+    violations across New York City.
+2.  Bar charts comparing rat sightings and inspection outcomes across
+    boroughs.
+3.  Scatterplots of housing violations against rat sightings by zip
+    code, with fitted model lines.
+4.  Line plots showing monthly and seasonal trends in 311 requests and
+    rat sightings over time.
+
+**Coding Challenges**
+
+1.  The 311 and housing violation datasets are very large, so we will
+    need to filter them through the NYC Open Data API rather than
+    downloading the full files.
+2.  The datasets record location differently (coordinates, addresses,
+    BBL, zip code), so joining them on a common geographic unit will
+    take careful cleaning.
+3.  Some records have missing or inaccurate coordinates and dates, which
+    we will need to handle before mapping and modeling.
+4.  Rat sightings reported through 311 and rodent inspection results
+    measure different things, so we will need to define our outcome
+    variables consistently.
+
 #### Planned Timeline
 
 November 16-20 Project review meeting Zoom meeting November 23-30 Create
-website, complete all components of the analysis\
+website, complete all components of the analysis  
 December 01-05 Create visualizations, review and edit analysis December
 06-10 Draft report, finalize website December 10-12 Record presentation
 screen cast December 12 Complete final submissions
